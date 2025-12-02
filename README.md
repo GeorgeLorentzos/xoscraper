@@ -9,9 +9,9 @@ A simple web-scraping utility for extracting business information from xo.gr and
 2. Open your browser's Developer Tools and inspect the search results page.
 
 3. Locate the container with:
-
+```html
    <div class="row listResults">
-
+```
 4. Copy all elements inside this div and paste them into a file named:
 
    data.txt
