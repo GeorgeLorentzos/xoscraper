@@ -12,7 +12,7 @@ A simple web-scraping utility for extracting business information from xo.gr and
 ```html
    <div class="row listResults">
 ```
-4. Copy all elements inside this div and paste them into a file named:
+4. Copy the whole div and paste them into a file named:
 
    data.txt
 
